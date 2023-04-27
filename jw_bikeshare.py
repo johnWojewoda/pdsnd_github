@@ -246,3 +246,5 @@ if __name__ == "__main__": # sometimes called the 'main guard' or 'main check'
     
 # I need cite the work of ABDALLAH EL-SAWY whoes work helped me greatly. After attempting this myself, finding this web page online https://www.kaggle.com/code/abdallahmohamedamin/explore-us-bikeshare-data/notebook helped me understand this code. This, in conjunction with GhatGPT has made it so that I understand the conepts behind every line of the above code.
 
+#Also want to credit yogi1510 here
+
