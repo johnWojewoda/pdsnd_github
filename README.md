@@ -8,7 +8,8 @@ This file was created on 2023/04/27
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+
+This project examines bikeshare data from three different amaerican cities
 
 ### Files used
 Include the files used
