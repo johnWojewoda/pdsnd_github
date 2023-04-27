@@ -13,3 +13,9 @@ This project examines bikeshare data from three different amaerican cities
 
 I want to credit github user yogi1510 
 
+### Files used
+
+Three files provided by Udacity
+chicago.csv
+new_york_city.csv
+washington.csv
